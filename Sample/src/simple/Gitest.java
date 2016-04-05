@@ -9,6 +9,9 @@ public class Gitest {
 		
 		System.out.println("added by u1-----------");
 		System.out.println("added by u2-----------");
+		
+		
+		System.out.println("Last change by U2...>");
 	}
 	
 	private void u1() {
