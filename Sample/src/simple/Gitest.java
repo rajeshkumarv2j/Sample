@@ -30,4 +30,8 @@ public class Gitest {
 	private void u2() {
 		System.out.println("u2");
 	}
+	private void dde() {
+		// TODO Auto-generated method stub
+
+	}
 }
