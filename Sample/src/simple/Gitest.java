@@ -14,6 +14,7 @@ public class Gitest {
 		System.out.println("Last change by U2...>");
 		
 		System.out.println("Last one by u1..");
+		System.out.println("Last one by u2");
 	}
 	
 	private void u1() {
