@@ -16,7 +16,9 @@ public class Gitest {
 		System.out.println("Last one by u1..");
 		System.out.println("Last one by u2");
 		
-		System.out.println("...........u1");
+		System.out.println("...........u1");		
+		System.out.println("............");
+
 	}
 	
 	private void u1() {
