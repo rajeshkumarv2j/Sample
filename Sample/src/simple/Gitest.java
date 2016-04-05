@@ -18,6 +18,8 @@ public class Gitest {
 		
 		System.out.println("...........u1");		
 		System.out.println("............");
+		
+		System.out.println(".u1.");
 
 	}
 	
