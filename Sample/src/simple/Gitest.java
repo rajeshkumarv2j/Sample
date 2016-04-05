@@ -4,6 +4,8 @@ public class Gitest {
 		System.out.println("it is git test");
 		System.out.println("u0");
 		System.out.println("U1");
+		
+		System.out.println("Added in main by U2");
 	}
 	
 	private void u1() {
