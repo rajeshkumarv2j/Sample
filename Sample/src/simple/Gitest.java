@@ -6,6 +6,8 @@ public class Gitest {
 		System.out.println("U1");
 		System.out.println("Added in main by u1");
 		System.out.println("Added in main by U2");
+		
+		System.out.println("added by u2-----------");
 	}
 	
 	private void u1() {
