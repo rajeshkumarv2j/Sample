@@ -10,4 +10,7 @@ public class Gitest {
 		// TODO Auto-generated method stub
 
 	}
+	private void u2() {
+		System.out.println("u2");
+	}
 }
