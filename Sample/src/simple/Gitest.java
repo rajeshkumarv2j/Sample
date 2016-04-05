@@ -7,8 +7,7 @@ public class Gitest {
 	}
 	
 	private void u1() {
-		// TODO Auto-generated method stub
-
+		System.out.println("u1");
 	}
 	private void u2() {
 		System.out.println("u2");
