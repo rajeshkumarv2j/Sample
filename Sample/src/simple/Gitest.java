@@ -5,4 +5,9 @@ public class Gitest {
 		System.out.println("u0");
 		System.out.println("U1");
 	}
+	
+	private void u1() {
+		// TODO Auto-generated method stub
+
+	}
 }
